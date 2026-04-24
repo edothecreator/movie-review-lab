@@ -1,0 +1,1 @@
+A production-style Dockerized Movie Review API with CI/CD and full-stack infrastructure.
